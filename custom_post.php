@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: MDl Custom Post
+ * Plugin Name: MDL Custom Post
  * Plugin URI: https://github.com/magicdesignlabs/-custom-post
  * Description: This is tutorial of creating custom-post in wordpress with it's setting page. 
  * Author:MDL
